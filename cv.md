@@ -49,3 +49,15 @@ console.log(alert('Логин и (или) Пароль введены невер
 }
 
 ```
+
+## **Experience**
+
+## **Education**
+
+- **Courses:**
+- [result.school](https://result.school/products/html-css)
+- [HTML Academy](https://www.htmlacademy.ru/)
+
+## **English**
+
+Knowledge of English at the basic school level
