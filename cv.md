@@ -55,6 +55,7 @@ console.log(alert('Логин и (или) Пароль введены невер
 ## **Education**
 
 - **Courses:**
+
 - [result.school](https://result.school/products/html-css)
 - [HTML Academy](https://www.htmlacademy.ru/)
 
